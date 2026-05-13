@@ -3,7 +3,7 @@ import { resolve } from 'path';
 
 export default defineConfig({
   root: resolve(__dirname),
-  base: './',
+  base: process.env.NODE_ENV === 'production' ? '/mesto-ad/' : '/',
   publicDir: 'src/images',
   build: {
     outDir: 'dist',

@@ -4,7 +4,7 @@
 
 ## Опубликованный проект
 
-🔗 [Открыть на GitHub Pages](https://USERNAME.github.io/REPO_NAME/)
+🔗 [Открыть на GitHub Pages](https:/https://maxvar121.github.io/mesto-ad/)
 
 > Не забудьте подставить свой логин и название репозитория.
 
